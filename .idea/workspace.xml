@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d5fcb82f-1c86-4671-ba82-a88345ad2fce" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classtest.py" afterPath="$PROJECT_DIR$/classtest.py" />
     </list>
     <ignored path="Argon.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -395,7 +394,14 @@
       <option name="project" value="LOCAL" />
       <updated>1460663445302</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Changed classtest.py for testing purposes.">
+      <created>1460665137692</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1460665137692</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -427,7 +433,8 @@
   <component name="VcsManagerConfiguration">
     <option name="PERFORM_COMMIT_IN_BACKGROUND" value="false" />
     <MESSAGE value="Added classtest.py for testing purposes." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added classtest.py for testing purposes." />
+    <MESSAGE value="Changed classtest.py for testing purposes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed classtest.py for testing purposes." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
