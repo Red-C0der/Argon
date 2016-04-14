@@ -1,29 +1,17 @@
 # -*- coding: utf-8 -*-
 __author__ = 'Red_C0der'
 
-import doctest
+import unittest, mock
 
-class Test:
+def calc(n):
+    return n+1
 
-    def __init__(self):
-        pass
 
-    def calc(self, n):
-        """
-            Return N+1
+class CheckCalc(unittest.TestCase):
 
-            >>> calc(1)
-            2
-            >>> calc(5)
-            6
-            >>> calc(2713)
-            2714
-            >>> fib(0)
-            1
-            >>>
-
-            """
-        return n + 1
+    def test_calc(self):
+        for i in range(5):
+            self.assertEqual(calc(2), 3)
 
 if __name__ == "__main__":
-    doctest.testmod()
+    unittest.main()
