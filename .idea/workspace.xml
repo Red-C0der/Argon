@@ -27,13 +27,15 @@
       <file leaf-file-name="classtest.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/classtest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+            <state relative-caret-position="270">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding>
-                <element signature="e#115#132#0" expanded="true" />
-                <element signature="e#162#208#0" expanded="true" />
-                <element signature="e#278#282#0" expanded="true" />
-                <element signature="e#301#311#0" expanded="true" />
+                <element signature="e#114#131#0" expanded="true" />
+                <element signature="e#161#207#0" expanded="true" />
+                <element signature="e#276#280#0" expanded="true" />
+                <element signature="e#300#344#0" expanded="true" />
+                <element signature="e#427#584#0" expanded="true" />
+                <element signature="e#664#827#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -425,7 +427,14 @@
       <option name="project" value="LOCAL" />
       <updated>1460665866930</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Changed classtest.py for testing purposes.">
+      <created>1460725870535</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1460725870535</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -467,13 +476,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/classtest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+        <state relative-caret-position="270">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
-            <element signature="e#115#132#0" expanded="true" />
-            <element signature="e#162#208#0" expanded="true" />
-            <element signature="e#278#282#0" expanded="true" />
-            <element signature="e#301#311#0" expanded="true" />
+            <element signature="e#114#131#0" expanded="true" />
+            <element signature="e#161#207#0" expanded="true" />
+            <element signature="e#276#280#0" expanded="true" />
+            <element signature="e#300#344#0" expanded="true" />
+            <element signature="e#427#584#0" expanded="true" />
+            <element signature="e#664#827#0" expanded="true" />
           </folding>
         </state>
       </provider>
